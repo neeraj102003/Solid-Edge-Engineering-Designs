@@ -108,7 +108,7 @@ If you have suggestions, improvements, or want to showcase your designs, feel fr
 ## 📬 Contact Information
 
 For any inquiries or collaboration opportunities, feel free to reach out:
-- **GitHub Repository with Collaboration**: [Nihal](https://github.com/nihal242003)  
+- **GitHub Repository with Collaboration**: [Nihal](https://github.com/nihal242003/SolidEdge_Engineering_Designs))  
 - **LinkedIn**: [Reach me](https://www.linkedin.com/in/nihal-adarsh-renuk/) 
 
 ---
